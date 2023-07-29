@@ -1,0 +1,10 @@
+.places__plece {
+    width: 984px;
+}
+
+/*@media screen and (min-width: 767px) and (min-width: 1024px){
+    .places__plece{
+        width: 500px;
+        margin: 0 auto;
+    }
+}*/

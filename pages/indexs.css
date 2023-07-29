@@ -1,3 +1,5 @@
+@import url(../styles/normalize.css);
+
 @import url('../bloks/lead/lead.css');
 @import url('../bloks/lead/__ception/lead__ception.css');
 @import url('../bloks/lead/__imege/lead__imege.css');
@@ -17,19 +19,28 @@
 @import url('../bloks/header/header.css');
 
 @import url('../bloks/page/page.css');
-@import url('../bloks/poto-grid/poto-grid.css');
 
-@import url('../bloks/places/pleces.css');
-@import url('../bloks/places/place/place.css');
-@import url('../bloks/places/place/__title/place__title.css');
-@import url('../bloks/places/place/__image/place__image.css');
-@import url('../bloks/places/place/__website/place__website.css');
-@import url('../bloks/places/place/__website/__website-url/place__website-url.css');
-@import url('../bloks/places/place/__website/__website-link/place__website-link.css');
-@import url('../bloks/places/place/__paragraphs/place__paragraph.css');
+@import url('../bloks/places/places.css');
+@import url('../bloks/places/__flex-row/places__flex-row.css');
+@import url('../bloks/places/__place/places__place.css');
+@import url('../bloks/places/__website/places__website.css');
+@import url('../bloks/places/__title/places__title.css');
+@import url('../bloks/places/__link/places__link.css');
+@import url('../bloks/places/__text/places__text.css');
+@import url('../bloks/places/__image/place__image.css');
+
+@import url(../bloks/photo-grid/__item/photo-grid__item.css);
+@import url(../bloks/photo-grid/photo-grid.css);
+
+@import url(../bloks/cover/cover.css);
+@import url(../bloks/cover/__bachground/cover__bachground.css);
+@import url(../bloks/cover/__link/cover__link.css);
+@import url(../bloks/cover/__subtitle/cover__subtitle.css);
+@import url(../bloks/cover/__title/cover__title.css);
 
 @import url('../bloks/footer/footer.css');
 @import url('../bloks/footer/__copyright/footer__copyright.css');
 @import url('../bloks/footer/__link/footer__link.css');
+@import url('../bloks/footer/__links/footer__links.css')
 
 
